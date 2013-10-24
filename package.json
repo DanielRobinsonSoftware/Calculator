@@ -16,6 +16,7 @@
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-jshint": "~0.6.4",
-    "grunt-mocha-test": "~0.7.0"
+    "grunt-mocha-test": "~0.7.0",
+    "expect.js": "~0.2.0"
   }
 }
