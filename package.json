@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "version": "0.0.0",
+  "description": "A calculator",
+  "main": "calculator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielRobinsonSoftware/Calculator"
+  },
+  "author": "Daniel Robinson",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DanielRobinsonSoftware/Calculator/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-mocha-test": "~0.7.0"
+  }
+}
